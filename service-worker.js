@@ -1,11 +1,11 @@
-const CACHE_NAME = "deep-blue-monkey-v2";
+const CACHE_NAME = "deep-blue-monkey-v3";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
   "./manifest.webmanifest",
-  "./icons/code-play-icon.svg?v=3"
+  "./icons/code-play-icon.svg"
 ];
 
 self.addEventListener("install", (event) => {

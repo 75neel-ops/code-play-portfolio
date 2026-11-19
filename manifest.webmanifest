@@ -9,10 +9,10 @@
   "theme_color": "#101114",
   "icons": [
     {
-      "src": "icons/code-play-icon.svg?v=3",
+      "src": "icons/code-play-icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }

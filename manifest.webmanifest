@@ -1,7 +1,7 @@
 {
-  "name": "Code & Play — Indie Developer",
-  "short_name": "Code & Play",
-  "description": "Independent code and game developer portfolio.",
+  "name": "Deep Blue Monkey — Games & Interactive Projects",
+  "short_name": "Deep Blue Monkey",
+  "description": "Deep Blue Monkey — games, code, and interactive projects.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

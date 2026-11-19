@@ -45,6 +45,10 @@ if (installButton) {
       return;
     }
 
-    alert("To install Deep Blue Monkey in Chrome or Edge:\\n\\n1. Open the browser menu (⋮) at the top-right.\\n2. Choose 'Install Deep Blue Monkey' or 'Apps' → 'Install this site as an app'.\\n3. Confirm Install.");
+    alert(`To install Deep Blue Monkey in Chrome or Edge:
+
+1. Open the browser menu (⋮) at the top-right.
+2. Choose "Install Deep Blue Monkey" or "Apps" → "Install this site as an app".
+3. Confirm Install.`);
   });
 }
